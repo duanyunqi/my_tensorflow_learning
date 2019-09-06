@@ -1,12 +1,11 @@
 # my_tensorflow_learning
 ## 2、Tensorflow keras实战
 ### （1）分类模型
-从keras.datasets中导入fashion_mnist数据集，对数据进行归一化，使用tf.keras搭建分类模型，构建一个四层神经网络。
-### （5）回调函数
-###  (6)深度神经网络
-### （7）批归一化、激活函数、dropout
-### （8）wide_deep模型
-### （9）超参数搜索
+### （2）回调函数
+###  (3)深度神经网络
+### （4）批归一化、激活函数、dropout
+### （5）wide_deep模型
+### （6）超参数搜索
 ## 3、Tensorflow基础API使用
 ### （1）tf.constant
 ### （2）tf.strings与ragged tensor
